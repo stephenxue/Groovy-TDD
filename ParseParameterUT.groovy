@@ -18,7 +18,7 @@ class UnitTest {
     //WHEN
         ExecuteTest()
     //THEN
-        //UnitTestCases()
+        UnitTestCases()
         DisplayResultToConsole()
     }
 
